@@ -11,3 +11,6 @@ Presume-se que a informação aqui contida é de caráter público, e como tal e
 
 ## Edição
  * [Tiago Vieira](https://github.com/TMMV)
+ * Guilherme Rodrigues Bumrad
+ * Josue Luiz Albuquerque da Silva
+ * Judilson Jose da Costa Junior
